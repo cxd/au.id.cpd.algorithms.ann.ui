@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faea795b-939b-47eb-8b8b-c200f9c3d298" name="Default" comment="" />
+    <list default="true" id="faea795b-939b-47eb-8b8b-c200f9c3d298" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/ContainerFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/DataFileFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/DataLoadStatusPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/DataPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/DataPreferencesPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/DataTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/DataTableModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/DataTablePanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/ErrorSurfaceDialog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/ErrorSurfaceDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/ErrorSurfacePanel$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/ErrorSurfacePanel$SurfaceRenderer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/ErrorSurfacePanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/GradientDescentDialog$ErrorDataCollector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/GradientDescentDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/GradientDescentStaticDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/IMenuActionEventListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$CloseNetworkAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$EditDataProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$EditNetworkProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$ExitAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$HelpAbout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$LoadDataAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$LoadNetworkAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$RunClassifyData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$RunTestModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$RunTrainModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$SaveDataAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$SaveNetworkAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$SaveNetworkWeightsAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$ViewDataGrid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$ViewErrorSurface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$ViewGradientDescent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar$ViewNetworkModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MainMenuBar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MenuActionEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/MenuActionType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/NetworkFileFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/NetworkGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/NetworkPropertiesPanel$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/NetworkPropertiesPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/AnnUIController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$LoadDataTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$PartitionDataTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController$SaveDataTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/DataController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$ClassificationTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$ErrorSurfaceTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$NetworkBuilderTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$TestNetworkTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController$TrainNetworkTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/control/NetworkController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/test/TestErrorSurfaceUI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/id/cpd/algorithms/ui/test/TestErrorSurfaceUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jdesktop/swing/utils/SwingWorker$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jdesktop/swing/utils/SwingWorker$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jdesktop/swing/utils/SwingWorker$ThreadVar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jdesktop/swing/utils/SwingWorker.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="au.id.cpd.algorithms.ui.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -93,11 +171,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state vertical-scroll-proportion="-0.22627737">
+              <caret line="13" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -116,10 +194,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NetworkController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NetworkController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/au/id/cpd/algorithms/ui/control/NetworkController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36982968">
+            <state vertical-scroll-proportion="0.0">
               <caret line="186" column="16" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="16" />
               <folding />
             </state>
@@ -187,6 +265,9 @@
     <property name="gantt-group-color" value="-16777096" />
     <property name="gantt-bar-style" value="linked" />
     <property name="gantt-header-style" value="week-header" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -393,7 +474,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="com.chrisfolger.needsmoredojo.intellij.configurable.DojoSettingsConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../au.id.cpd.algorithms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eigenfaces" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -772,12 +853,12 @@
       <option name="number" value="Default" />
       <updated>1375012060071</updated>
       <workItem from="1431150231443" duration="110000" />
-      <workItem from="1431150394134" duration="3881000" />
+      <workItem from="1431150394134" duration="5283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3991000" />
+    <option name="totallyTimeSpent" value="5393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -791,15 +872,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1051,14 +1132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/au/id/cpd/algorithms/ui/NetworkPropertiesPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1072,8 +1145,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/au/id/cpd/algorithms/ui/control/NetworkController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36982968">
+        <state vertical-scroll-proportion="0.0">
           <caret line="186" column="16" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.22627737">
+          <caret line="13" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="10" />
           <folding />
         </state>
       </provider>
