@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/au.id.cpd.algorithms"/>
+	<classpathentry kind="lib" path="/Users/cd/java/jgraph/bin/lib/jgraph.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/java/j3d-1_5_2-macosx/lib/ext/j3dcore.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/java/j3d-1_5_2-macosx/lib/ext/j3dutils.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/java/j3d-1_5_2-macosx/lib/ext/vecmath.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/java/jogl-1.1.1-macosx-universal/lib/jogl.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/java/jogl-1.1.1-macosx-universal/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/workspace/au.id.cpd.algorithms/lib/jchart2d-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
